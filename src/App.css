@@ -3,10 +3,13 @@
   font-family: 'Montserrat', sans-serif;
   background: black;
 }
+.navbar {
+justify-content: center;
+
+}
 h1 {
   color: white;
   text-align: center;
-  font-size: 40px;
   margin-top: 5%;
 }
 h2 {
