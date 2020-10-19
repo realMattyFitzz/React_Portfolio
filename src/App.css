@@ -45,6 +45,7 @@ h4 {
 }
 .button {
   background: skyblue;
+  border-color: skyblue;
   color: black;
 }
 .button:hover {
