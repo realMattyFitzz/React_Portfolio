@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>Matthews <i class="fas fa-circle-notch fa-spin" style={{ color: 'skyblue'}}></i> Portfolio</h1>
+      <h1>Matthews <i class="fas fa-atom" style={{ color: 'skyblue'}}></i> Portfolio</h1>
       <div>
       <AboutMe />
       <Project />
