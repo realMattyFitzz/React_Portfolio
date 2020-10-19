@@ -15,7 +15,9 @@ function App() {
       <br></br>
       <br></br>
       <AboutMe />
+      <br></br>
       <Project />
+      <br></br>
       <ContactMe />
       </div>
     </div>
