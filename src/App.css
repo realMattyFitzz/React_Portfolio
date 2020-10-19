@@ -23,16 +23,19 @@ p {
   font-size: 18px;
 }
 h3 {
-  color: skyblue;
+  color: white;
   background-color: transparent;
   text-align: center;
   font-size: 30px;
 }
 .cinfo {
   color: white;
+  text-shadow: 2px 2px black;
+  text-decoration: underline;
 }
 #cigithub {
   color: white;
+  text-shadow: 2px 2px black;
 }
 #cigithub:hover {
   color: blue;
@@ -73,5 +76,8 @@ a:hover {
 }
 .carousel-indicators {
   background-color: transparent;
+}
+.stocked {
+  font-family: 'Roboto Mono', monospace;
 }
 

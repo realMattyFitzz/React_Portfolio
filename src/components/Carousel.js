@@ -35,7 +35,7 @@ class BSCarousel extends Component {
                                 alt="First slide"
                             />
                             <Carousel.Caption>
-                                <h3> Get<i class="fas fa-dollar-sign"></i>tocked </h3>
+                                <h3 class="stocked"> Get<i class="fas fa-dollar-sign" style={{ color: 'limegreen' }}></i>tocked </h3>
                                 <a href="https://github.com/realMattyFitzz/p2_stock_dashboard"><i class="fab fa-github fa-2x" style={{ color: 'white'}}></i></a>
                                 <div>
                                     <a href="https://p2-stock-dashboard.herokuapp.com/">herokuapp</a>
@@ -49,7 +49,7 @@ class BSCarousel extends Component {
                                 alt="First slide"
                             />
                             <Carousel.Caption>
-                                <h3> <i class="fas fa-stopwatch"></i>RapidRecipe </h3>
+                                <h3> <i class="fas fa-stopwatch" style= {{ color: 'aqua'}}></i>RapidRecipe </h3>
                                 <div>
                                     <a href="https://github.com/realMattyFitzz/p3_recipe"><i class="fab fa-github fa-2x" style={{ color: 'white'}}></i></a>
                                 </div>
