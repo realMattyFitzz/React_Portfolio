@@ -36,7 +36,7 @@ class BSCarousel extends Component {
                             />
                             <Carousel.Caption>
                                 <h3> Get<i class="fas fa-dollar-sign"></i>tocked </h3>
-                                <a href="https://github.com/realMattyFitzz/p2_stock_dashboard"><i class="fab fa-github fa-2x"></i></a>
+                                <a href="https://github.com/realMattyFitzz/p2_stock_dashboard"><i class="fab fa-github fa-2x" style={{ color: 'white'}}></i></a>
                                 <div>
                                     <a href="https://p2-stock-dashboard.herokuapp.com/">herokuapp</a>
                                 </div>
@@ -51,7 +51,7 @@ class BSCarousel extends Component {
                             <Carousel.Caption>
                                 <h3> <i class="fas fa-stopwatch"></i>RapidRecipe </h3>
                                 <div>
-                                    <a href="https://github.com/realMattyFitzz/p3_recipe"><i class="fab fa-github fa-2x"></i></a>
+                                    <a href="https://github.com/realMattyFitzz/p3_recipe"><i class="fab fa-github fa-2x" style={{ color: 'white'}}></i></a>
                                 </div>
                             </Carousel.Caption>
                         </Carousel.Item>
